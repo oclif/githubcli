@@ -56,9 +56,10 @@ workflows:
   version: 2
   "githubcli":
     jobs:
-      - node-latest
-      - node-12
-      - node-10
+      - windows
+      # - node-latest
+      # - node-12
+      # - node-10
       - cache:
           filters:
             tags:
