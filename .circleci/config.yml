@@ -1,5 +1,7 @@
 ---
 version: 2.1
+orbs:
+  win: circleci/windows@1.0.0
 jobs:
   node-latest: &test
     docker:
@@ -45,7 +47,6 @@ jobs:
             - /usr/local/share/.cache/yarn
             - /usr/local/share/.config/yarn
   windows:
-    win: circleci/windows@1.0.0
     executor: win/vs2019
     steps:
       - checkout
