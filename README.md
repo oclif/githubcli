@@ -6,7 +6,6 @@ githubcli
 [![Version](https://img.shields.io/npm/v/githubcli.svg)](https://npmjs.org/package/githubcli)
 [![CircleCI](https://circleci.com/gh/jdxcode/githubcli/tree/master.svg?style=shield)](https://circleci.com/gh/jdxcode/githubcli/tree/master)
 [![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/jdxcode/githubcli?branch=master&svg=true)](https://ci.appveyor.com/project/heroku/githubcli/branch/master)
-[![Codecov](https://codecov.io/gh/jdxcode/githubcli/branch/master/graph/badge.svg)](https://codecov.io/gh/jdxcode/githubcli)
 [![Known Vulnerabilities](https://snyk.io/test/github/jdxcode/githubcli/badge.svg)](https://snyk.io/test/github/jdxcode/githubcli)
 [![Downloads/week](https://img.shields.io/npm/dw/githubcli.svg)](https://npmjs.org/package/githubcli)
 [![License](https://img.shields.io/npm/l/githubcli.svg)](https://github.com/jdxcode/githubcli/blob/master/package.json)
